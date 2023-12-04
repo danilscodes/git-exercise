@@ -1,2 +1,3 @@
 # git-exercise
-*anything i like*
+*anything i like*,
+**more changes**
